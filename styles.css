@@ -1,0 +1,113 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.btn {
+    display: inline-block;
+    background-color:#4169E1;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.hero-content {
+    text-align: center;
+    color:#980000;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.profile {
+    text-align: center;
+    
+}
+
+.profile-image {
+    width: 150px; /* adjust as needed */
+    height: 150px; /* adjust as needed */
+    border-radius: 50%; /* to make it circular */
+    margin: 0 auto 20px; /* center the image and add some space below */
+    display: block;
+    
+}
+#intro {
+    color: rgb(1, 6, 8);
+    font-family: Arial, Helvetica, sans-serif; /* Modify font as needed */
+    font-size:18px ;
+}
+/* styles.css */
+/* styles.css */
+#wlcm {
+    font-family: 'Roboto', sans-serif; /* Change 'Roboto' to the desired font */
+    font-size: 20px;
+    color: rgb(1, 6, 8);
+}
+#name{
+    font-size: 30px;
+}
+/* styles.css */
+.github-btn {
+    background-color: #070000; /* Change the background color as desired */
+    color: #fff; /* Change the text color as desired */
+}
+
+ .github-btn:hover {
+    background-color: #555; /* Change the background color on hover */
+}
+#about {
+    font-size: 18px; /* Change font size to 18 pixels */
+    color: #333; }
+    #about h2 {
+        font-size: 40px; /* Adjust font size as needed */
+       
+    }
+    #contact h2{
+        font-size: 40px; /* Adjust font size as needed */
+    }
+    #contact{
+        font-size: 18px; /* Change font size to 18 pixels */
+    color: #333; 
+    }
