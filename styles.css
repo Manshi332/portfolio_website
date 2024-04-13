@@ -125,3 +125,6 @@ footer {
         text-decoration: none;
         margin: 0 10px;
     }
+    #projects h2{
+        font-size: 40px; 
+    }
